@@ -1,0 +1,9 @@
+/nbproject/private/
+/Application/Runtime
+/Uploads/*
+test
+/.project
+/.settings
+/.buildpath
+.idea
+/.vscode
